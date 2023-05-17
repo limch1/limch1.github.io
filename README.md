@@ -1,5 +1,5 @@
 # Put The Hat On The Cat
-[play the game here](https://tenguliam.github.io/)
+[play the game here](https://limch1.github.io/)
 
 this is a stupid game thats barely a game that i made in pico-8 as a practice
 
