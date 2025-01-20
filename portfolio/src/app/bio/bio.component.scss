@@ -1,0 +1,14 @@
+.diag {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 150%;
+  }
+  .diag.diag-1 {
+    transform: translate3d(-50%, -50%, 0) rotate(45deg);
+  }
+
+  .box {
+    overflow: hidden;
+    /* other styles */
+  }
