@@ -1,11 +1,11 @@
 .diag {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    width: 150%;
+    background: linear-gradient(to bottom left,#0000 50%,black ,#0000 51%);
+
   }
-  .diag.diag-1 {
-    transform: translate3d(-50%, -50%, 0) rotate(45deg);
+
+  .diag-rev {
+    background: linear-gradient(to bottom right,#0000 50%,black ,#0000 51%);
+
   }
 
   .box {
